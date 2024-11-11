@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head><title>My new web site</title> </head>
+    </title>
+    <body>
+        <div>
+            <h1> my new webpage</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, aut ea error aliquid quo culpa sed sit vitae suscipit! Deserunt cumque veniam eum, non illo molestiae provident voluptate illum repellat?</p>
+        </div>
+        <div style="background-color: brown;">
+            <h1> heading 1</h1>
+            <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quam consequuntur suscipit modi, iure magnam perferendis libero delectus laboriosam voluptas dolorum impedit nobis animi laudantium, id quidem accusantium amet expedita adipisci!</p>
+        </div>
+        <div>
+            <h1 style="color: blue;"></h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis esse ratione suscipit at quos, cupiditate eius necessitatibus cum ullam mollitia doloribus repellat eligendi asperiores nesciunt laboriosam dolores. Repellendus, consequuntur earum!</p>
+        </div>
+    </body></html>

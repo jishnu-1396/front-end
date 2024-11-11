@@ -1,0 +1,11 @@
+<!DOCTYPE .html>
+<html>
+    <title> car dealership</title>
+    <body>
+        <h1>Cars24</h1>
+        <hr>
+        <img src="https://img.freepik.com/premium-photo/4k-car-wallpaper_1058674-2108.jpg?semt=ais_hybrid" >
+        <section> <iframe width="560" height="315" src="https://www.youtube.com/embed/KIvC5wsoW2Y?si=QvRPu82pWPlfBofV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></section>
+
+    </body>
+</html>
